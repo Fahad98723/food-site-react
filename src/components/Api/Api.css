@@ -1,0 +1,14 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.meals-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    margin-right: 20px;
+}
+.select-section{
+    color: white;
+    text-align: center;
+}

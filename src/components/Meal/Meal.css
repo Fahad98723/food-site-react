@@ -1,0 +1,18 @@
+.meal img{
+    width: 100%;
+}
+.meal{
+    color: white;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+.meal .details{
+    padding: 5px;
+}
+.select{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
